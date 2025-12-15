@@ -4,7 +4,8 @@
 
 # 💫 About Me:
 
-A dedicated Final-Year Computer Science Student actively transitioning into a Full-Stack Software Engineering role. I am driven by the philosophy of #learninginpublic, turning complex problems into clean, functional code.
+A dedicated Final-Year Computer Science Student actively transitioning into a Full-Stack Software Engineering role. <br>
+I am driven by the philosophy of #learninginpublic, turning complex problems into clean, functional code.
 
 Education: Currently completing my B.Tech in Computer Science at MIT-WPU.<br>
 
