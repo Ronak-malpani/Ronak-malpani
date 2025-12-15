@@ -6,15 +6,10 @@
 
 A dedicated Final-Year Computer Science Student actively transitioning into a Full-Stack Software Engineering role. <br>
 
-
-Education: Currently pursing  a B.Tech in Computer Science at  MIT-WPU.<br>
-
-Role Focus: Engineering scalable, end-to-end applications with a strong emphasis on user experience and performance.<br>
-
-Proud Participant in [#100DaysOfCode on LinkedIn](https://www.linkedin.com/posts/ronakmalpani15_day0-100daysofcode-learninginpublic-activity-7345929462871379968-DfYL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEIJ3q0BIwaHBh5vugDrukB8n7M3M6QqHDo) Challenge <br>
-Mindset: Committed to continuous skill acquisition, leveraging hands-on projects to master the latest web standards.<br>
-
-Value: Combining core DSA skills with modern web technologies to build robust and efficient solutions. <br>
+Education: Currently pursuing a B.Tech in Computer Science at MIT-WPU.<br>
+Core Focus: Developing and engineering scalable, end-to-end applications with a strong emphasis on user experience and performance.<br>
+Skill Set: Experienced in full-stack development using various frameworks and databases.<br.
+Learning: Committed to continuous skill acquisition and a proud participant in the [#100DaysOfCode Challenge](https://www.linkedin.com/posts/ronakmalpani15_day0-100daysofcode-learninginpublic-activity-7345929462871379968-DfYL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEIJ3q0BIwaHBh5vugDrukB8n7M3M6QqHDo).<br>
 
 Currently, I am actively looking for Internships and Entry-Level Software-Developer roles where I can apply my foundation and gain mentorship on production-ready systems.<br>
 
