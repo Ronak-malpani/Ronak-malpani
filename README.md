@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="margin-top:0px;">👋 Hi there, I'm Ronak Malpani!</h1>
+  <h1 style="margin-top:0px;">👋 Hi, I'm Ronak Malpani!</h1>
 </div>
 
 # 💫 About Me:
