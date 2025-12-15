@@ -1,13 +1,29 @@
-About Me 
+<div align="center">
+    <h3 style="margin-top:0px;">👋 Hi, I'm Ronak Malpani!</h3>
+</div>
+<br>
 
-Hello! I'm Ronak Malpani
+<div style="font-size: 1.1em;">
+    Aspiring Software Developer focused on building robust and scalable applications.<br>
+    
+    Education: Studied [Computer Science & Engineering] at MIT-WPU, Pune.<br>
+    
+    Learning Focus: I am committed to learning in public, always focusing on new technologies. You can follow my progress here: [Day 0: #100DaysOfCode](https://www.linkedin.com/posts/ronakmalpani15_day0-100daysofcode-learninginpublic-activity-7345929462871379968-DfYL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEIJ3q0BIwaHBh5vugDrukB8n7M3M6QqHDo)<br>
+    
+    Currently: Focused on  Full-Stack Development and improving my skills in  Data Structures & Algorithms
+</div>
+<br>
 
-I am an aspiring Software Developer focused on building robust and scalable applications. I am currently mastering my skills in MERN stack  and diving deep into the Full Stack ecosystem.
+<div align="center">
+    [![Ronak Malpani's github stats](https://github-readme-stats.vercel.app/api?username=RonakMalpani&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+<br>
 
-My current focus is on learning [Specific Framework/Technology, e.g., React, Django, or AWS].
+<h3 style="border-bottom: 2px solid #586069; padding-bottom: 5px;">💻 My Tech Stack (Fill this out with your skills!)</h3>
 
-My passion lies in solving problems and building tools that make a tangible difference.
-
-How to reach me: malpanironak11@gmail.com
-
-Connect with me on Linkedin: https://www.linkedin.com/in/ronakmalpani15/
+<div style="font-size: 1.05em;">
+    **Languages:** [Python, JavaScript, Java, C++, etc.]<br>
+    **Frameworks:** [React, Node.js, Django, etc.]<br>
+    **Databases:** [PostgreSQL, MongoDB, MySQL]<br>
+    **Tools/Platform:** [Git, Docker, AWS/Azure, VS Code]
+</div>
