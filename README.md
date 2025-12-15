@@ -17,10 +17,22 @@
 <br>
 
 
-<h3 style="border-bottom: 2px solid #586069; padding-bottom: 5px; text-align: center;">💻 My Tech Stack</h3>
+<h3 style="border-bottom: 2px solid #586069; padding-bottom: 5px; text-align: center;">⚙️ My Tech Stack</h3>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=py,js,react,nodejs,django,postgres,git,docker,vscode" alt="My Skills" />
+    <h4 style="margin-top: 20px; margin-bottom: 10px; color: #586069;">Frontend</h4>
+    <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Frontend Skills" />
+    <br>
+
+    <h4 style="margin-top: 20px; margin-bottom: 10px; color: #586069;">Backend & Languages</h4>
+    <img src="https://skillicons.dev/icons?i=py,java,nodejs,django" alt="Backend Skills" />
+    <br>
+
+    <h4 style="margin-top: 20px; margin-bottom: 10px; color: #586069;">Databases & Cloud</h4>
+    <img src="https://skillicons.dev/icons?i=postgres,mongo,aws" alt="Database and Cloud Skills" />
+    <br>
+
+    <h4 style="margin-top: 20px; margin-bottom: 10px; color: #586069;">Tools & Other</h4>
+    <img src="https://skillicons.dev/icons?i=git,docker,vscode" alt="Tools Skills" />
 </div>
-<br>
 <br>
