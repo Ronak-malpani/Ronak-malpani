@@ -14,6 +14,8 @@ I am a final-year Computer Science Engineering student at MIT-WPU, actively prep
 
 🤝 Looking For: Internship and entry-level opportunities to work on production-ready systems and learn from experienced engineers
 
+--- 
+
 🚀 Featured Projects
 
 🎬 QuickShow – Movie Booking Website
