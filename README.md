@@ -4,7 +4,7 @@
 <br>
 
 # 💫 About Me:
-A dedicated Final-Year Computer Science Student actively transitioning into a Full-Stack Software Engineering role. <br>I am driven by the philosophy of #learninginpublic, turning complex problems into clean, functional code.<br><br>   Education: Currently completing my B.Tech in Computer Science at MIT-WPU.    <br>   Role Focus: Engineering scalable, end-to-end applications with a strong emphasis on user experience and performance.<br>   Mindset: Committed to continuous skill acquisition, leveraging hands-on projects to master the latest web standards.<br>   Value: Combining core DSA skills with modern web technologies to build robust and efficient solutions.<br><br>💻 Tech Stack:<br>     Frontend: React.js, JavaScript (ES6+), HTML5, CSS3<br>     Backend/LogicNode.js, Java, C++, RESTful APIs<br>     Core CS: Data Structures & Algorithms (DSA), Problem Solving<br>     Ecosystem: MERN Stack, Git/GitHub, VS Code<br><br> Currently, I am actively looking for  Internships and Entry-Level Software-Developer roles where I can apply my foundation and gain mentorship on production-ready systems.<br><br>Let's connect t and collaborate together!
+A dedicated Final-Year Computer Science Student actively transitioning into a Full-Stack Software Engineering role. <br>I am driven by the philosophy of #learninginpublic, turning complex problems into clean, functional code.<br><br>   Education: Currently completing my B.Tech in Computer Science at MIT-WPU.    <br>   Role Focus: Engineering scalable, end-to-end applications with a strong emphasis on user experience and performance.<br>   Mindset: Committed to continuous skill acquisition, leveraging hands-on projects to master the latest web standards.<br>   Value: Combining core DSA skills with modern web technologies to build robust and efficient solutions.<br> Currently, I am actively looking for  Internships and Entry-Level Software-Developer roles where I can apply my foundation and gain mentorship on production-ready systems.<br><br>Let's connect t and collaborate together!
 
 
 ## 🌐 Socials:
@@ -43,8 +43,7 @@ A dedicated Final-Year Computer Science Student actively transitioning into a Fu
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ImranKhanYouTuber) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alamimran613) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ikyoutuber) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@technosnag) 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 
 
