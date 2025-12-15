@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="RONAK.png" alt="Custom Portfolio Banner" width="800"/>
+</p>
 
 <div align="center">
   <h1 style="margin-top:0px;">👋 Hi, I'm Ronak Malpani!</h1>
