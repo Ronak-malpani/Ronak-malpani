@@ -4,19 +4,29 @@
 
 # 💫 About Me:
 
-A dedicated Final-Year Computer Science Student actively transitioning into a Full-Stack Software Engineering role. <br>
+I am a final-year Computer Science Engineering student at MIT-WPU, actively preparing for Software Development Engineer (SDE) and Internship roles.<br>
 
-Education: Currently pursuing a B.Tech in Computer Science at MIT-WPU.<br>
-Core Focus: Developing and engineering scalable, end-to-end applications with a strong emphasis on user experience and performance.<br>
-Skill Set: Experienced in full-stack development using various frameworks and databases.<br.
-Learning: Committed to continuous skill acquisition and a proud participant in the [#100DaysOfCode Challenge](https://www.linkedin.com/posts/ronakmalpani15_day0-100daysofcode-learninginpublic-activity-7345929462871379968-DfYL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEIJ3q0BIwaHBh5vugDrukB8n7M3M6QqHDo).<br>
+🎯 Core Focus: Building reliable, end-to-end web applications with attention to performance and user experience
 
-Currently, I am actively looking for Internships and Entry-Level Software-Developer roles where I can apply my foundation and gain mentorship on production-ready systems.<br>
+🧠 Currently Learning: Data Structures & Algorithms, System Design basics
 
-Let's connect and collaborate!
+🔁 Learning in Public: Actively participating in the #100DaysOfCode Challenge
 
-<br>
+🤝 Looking For: Internship and entry-level opportunities to work on production-ready systems and learn from experienced engineers
 
+🚀 Featured Projects
+
+🎬 QuickShow – Movie Booking Website
+Full-stack movie booking application featuring user authentication, movie listings, Stripe payment integration, and email notifications. Designed to simulate a real-world production system.
+🔗 Repo: https://github.com/Ronak-malpani/QuickShow-Movie-Booking-website
+
+💰 Personal Finance Tracker
+Web application to track income and expenses, manage categories, and analyze spending patterns. Focused on clean CRUD operations and data handling.
+🔗 Repo: https://github.com/Ronak-malpani/personal-finance-tracker
+
+🛡️ SafeVision-AI (Optional / ML Project)
+AI-based project focused on computer vision and safety-related use cases, showcasing exposure to machine learning concepts beyond web development.
+🔗 Repo: https://github.com/Ronak-malpani/SafeVision-AI
 
 ---
 
