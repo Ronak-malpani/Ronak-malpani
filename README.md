@@ -64,12 +64,12 @@ Let's connect and collaborate together!
 
 ---
 
-<details>
+<!-- <details>
   <summary>Snake Animation Code (Click to Expand)</summary>
   <p align="center">
     <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
   </p>
-</details>
+</details> -->
 
 ## 🏆 GitHub Trophies
 
