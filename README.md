@@ -95,13 +95,13 @@ Focus on sustainability-driven decision making <br>
   <p align="center">
     <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
   </p>
-</details> -->
+</details> 
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ronak-malpani&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</p>
+</p> -->
 
 ---
 
