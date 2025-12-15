@@ -17,16 +17,33 @@ I am a final-year Computer Science Engineering student at MIT-WPU, actively prep
 🚀 Featured Projects
 
 🎬 QuickShow – Movie Booking Website
-Full-stack movie booking application featuring user authentication, movie listings, Stripe payment integration, and email notifications. Designed to simulate a real-world production system.<br>
+Full-stack movie booking application designed to simulate a real-world production system.<br>
+
+Key Features:
+User authentication & authorization <br>
+Movie listings with booking workflow <br>
+Stripe payment gateway integration <br>
+Email notifications for booking confirmation <br>
+REST APIs with backend validation <br>
 🔗 Repo: https://github.com/Ronak-malpani/QuickShow-Movie-Booking-website
 
 💰 Personal Finance Tracker
-Web application to track income and expenses, manage categories, and analyze spending patterns. 
-Focused on clean CRUD operations and data handling.<br>
+Web application focused on tracking and managing personal finances.<br>
+
+Key Features:
+Add, update, and delete income/expense records <br>
+Category-based expense management <br>
+Data persistence with database integration <br>
+Clean CRUD operations and modular structure <br>
 🔗 Repo: https://github.com/Ronak-malpani/personal-finance-tracker
 
-🌱 Eco-Friendly Travel Planner (Optional)
-Web-based travel planning application focused on promoting eco-friendly travel choices. Demonstrates creativity and problem-solving beyond common project ideas.<br>
+🌱 Eco-Friendly Travel Planner 
+Web-based travel planning application promoting sustainable travel choices.<br>
+
+Key Features:
+Eco-friendly destination suggestions <br>
+Travel planning interface <br>
+Focus on sustainability-driven decision making <br>
 🔗 Repo: https://github.com/Ronak-malpani/eco-friendly-travel-planner
 
 ---
