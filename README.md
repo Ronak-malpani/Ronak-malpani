@@ -6,13 +6,13 @@
 
 I am a final-year Computer Science Engineering student at MIT-WPU, actively preparing for Software Development Engineer (SDE) and Internship roles.<br>
 
-🎯 Core Focus: Building reliable, end-to-end web applications with attention to performance and user experience
+ Core Focus: Building reliable, end-to-end web applications with attention to performance and user experience
 
-🧠 Currently Learning: Data Structures & Algorithms, System Design basics
+ Currently Learning: Data Structures & Algorithms, System Design basics
 
-🔁 Learning in Public: Actively participating in the #100DaysOfCode Challenge
+ Learning in Public: Actively participating in the #100DaysOfCode Challenge
 
-🤝 Looking For: Internship and entry-level opportunities to work on production-ready systems and learn from experienced engineers
+ Looking For: Internship and entry-level opportunities to work on production-ready systems and learn from experienced engineers
 
 --- 
 # 💻 Tech Stack:
