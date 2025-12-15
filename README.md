@@ -8,7 +8,7 @@ A dedicated Final-Year Computer Science Student actively transitioning into a Fu
 
 Education: Currently completing my B.Tech in Computer Science at MIT-WPU.<br>
 Role Focus: Engineering scalable, end-to-end applications with a strong emphasis on user experience and performance.<br>
-Participant in [#100DaysOfCode on LinkedIn](https://www.linkedin.com/posts/ronakmalpani15_day0-100daysofcode-learninginpublic-activity-7345929462871379968-DfYL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEIJ3q0BIwaHBh5vugDrukB8n7M3M6QqHDo) <br>
+Participant in [#100DaysOfCode on LinkedIn](https://www.linkedin.com/posts/ronakmalpani15_day0-100daysofcode-learninginpublic-activity-7345929462871379968-DfYL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEIJ3q0BIwaHBh5vugDrukB8n7M3M6QqHDo) Challenge <br>
 Mindset: Committed to continuous skill acquisition, leveraging hands-on projects to master the latest web standards.<br>
 Value: Combining core DSA skills with modern web technologies to build robust and efficient solutions. <br>
 
