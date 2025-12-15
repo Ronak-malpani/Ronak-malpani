@@ -15,7 +15,7 @@ I am a final-year Computer Science Engineering student at MIT-WPU, actively prep
  Looking For: Internship and entry-level opportunities to work on production-ready systems and learn from experienced engineers
 
 --- 
-# 💻 Tech Stack:
+# 💻 Tech and Tools:
 
 * Languages & Core: ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
     ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
