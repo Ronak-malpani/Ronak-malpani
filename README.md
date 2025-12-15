@@ -16,6 +16,9 @@
 </div>
 <br>
 
+<!-- Github Stats -->
+[![Ronak-malpani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ronak-malpani)](https://github.com/Ronak-malpani/github-readme-stats)
+
 <!-- Snake Game Repo View -->
 
 <div align="center">
