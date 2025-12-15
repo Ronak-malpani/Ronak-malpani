@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="Ronak Malpani.png" alt="Ronak Malpani | SDE"/>
-</p>
+
 <div align="center">
   <h1 style="margin-top:0px;">👋 Hi, I'm Ronak Malpani!</h1>
 </div>
