@@ -17,11 +17,6 @@ Let's connect and collaborate together!
 
 <br>
 
-## 🌐 Socials:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronakmalpani15/) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@malpanironak11) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:malpanironak11@gmail.com) 
 
 ---
 
@@ -76,5 +71,11 @@ Let's connect and collaborate together!
 </p>
 
 ---
+
+## 🌐 Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronakmalpani15/) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@malpanironak11) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:malpanironak11@gmail.com) 
 
 [![](https://visitcount.itsvg.in/api?id=Ronak-malpani&icon=0&color=0)](https://visitcount.itsvg.in)
