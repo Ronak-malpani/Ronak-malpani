@@ -17,7 +17,7 @@
 <br>
 
 <!-- Github Stats -->
-[![Ronak-malpani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ronak-malpani)](https://github.com/Ronak-malpani/github-readme-stats)
+[![Ronak-malpani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ronak-malpani&show_icons=true&theme=radical)
 
 <!-- Snake Game Repo View -->
 
