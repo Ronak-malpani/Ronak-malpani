@@ -17,9 +17,6 @@
 </div>
 <br>
 
-<div align="center">
-    [![Ronak Malpani's github stats](https://github-readme-stats.vercel.app/api?username=RonakMalpani&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 <br>
 
 <h3 style="border-bottom: 2px solid #586069; padding-bottom: 5px;">💻 My Tech Stack (Fill this out with your skills!)</h3>
