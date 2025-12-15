@@ -4,14 +4,14 @@
 
 # 💫 About Me:
 
-A dedicated **Final-Year Computer Science Student** actively transitioning into a Full-Stack Software Engineering role. I am driven by the philosophy of **#learninginpublic**, turning complex problems into clean, functional code.
+A dedicated Final-Year Computer Science Student actively transitioning into a Full-Stack Software Engineering role. I am driven by the philosophy of #learninginpublic, turning complex problems into clean, functional code.
 
-* **Education:** Currently completing my B.Tech in Computer Science at **MIT-WPU**.
-* **Role Focus:** Engineering scalable, end-to-end applications with a strong emphasis on user experience and performance.
-* **Mindset:** Committed to continuous skill acquisition, leveraging hands-on projects to master the latest web standards.
-* **Value:** Combining core **DSA** skills with modern web technologies to build robust and efficient solutions.
+Education: Currently completing my B.Tech in Computer Science at MIT-WPU.
+Role Focus: Engineering scalable, end-to-end applications with a strong emphasis on user experience and performance.
+Mindset: Committed to continuous skill acquisition, leveraging hands-on projects to master the latest web standards.
+Value: Combining core DSA skills with modern web technologies to build robust and efficient solutions.
 
-Currently, I am actively looking for **Internships** and **Entry-Level Software-Developer** roles where I can apply my foundation and gain mentorship on production-ready systems.
+Currently, I am actively looking for Internships and Entry-Level Software-Developer** roles where I can apply my foundation and gain mentorship on production-ready systems.
 
 Let's connect and collaborate together!
 
