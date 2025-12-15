@@ -21,7 +21,8 @@ Full-stack movie booking application featuring user authentication, movie listin
 🔗 Repo: https://github.com/Ronak-malpani/QuickShow-Movie-Booking-website
 
 💰 Personal Finance Tracker
-Web application to track income and expenses, manage categories, and analyze spending patterns. Focused on clean CRUD operations and data handling.
+Web application to track income and expenses, manage categories, and analyze spending patterns. 
+Focused on clean CRUD operations and data handling.
 🔗 Repo: https://github.com/Ronak-malpani/personal-finance-tracker
 
 🛡️ SafeVision-AI (Optional / ML Project)
