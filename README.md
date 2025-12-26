@@ -51,6 +51,16 @@ I am a final-year Computer Science Engineering student at MIT-WPU, actively prep
 
 🚀 Featured Projects
 
+📄 AI Resume Builder & ATS Auditor
+An AI-powered MERN platform that automates professional resume creation and performs real-time ATS compatibility audits.<br>
+
+Key Features:
+Google Gemini AI Integration: Reduces manual content generation time by 40%. <br>
+ATS Auditor: Scans keyword gaps with 80% accuracy against specific job descriptions. <br>
+Redux Toolkit: Maintains 100% data sync across multi-step user forms. <br>
+PDF Generation: Instant download of industry-standard formatted resumes. <br>
+🔗 Repo: https://github.com/Ronak-malpani/Resume-Builder <br>
+
 🎬 QuickShow – Movie Booking Website
 Full-stack movie booking application designed to simulate a real-world production system.<br>
 
